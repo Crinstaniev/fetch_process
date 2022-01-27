@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/crinstaniev/Development/fetch_process'
+make -C /lib/modules/5.4.0-96-generic/build M=/home/crinstaniev/Development/fetch_process modules 
+make: Leaving directory '/home/crinstaniev/Development/fetch_process'
+ 
