@@ -1,1 +1,0 @@
-cmd_/home/crinstaniev/Development/fetch_process/fetch.ko := ld -r  -EL  -maarch64elf  --build-id  -T ./scripts/module-common.lds -T ./arch/arm64/kernel/module.lds -o /home/crinstaniev/Development/fetch_process/fetch.ko /home/crinstaniev/Development/fetch_process/fetch.o /home/crinstaniev/Development/fetch_process/fetch.mod.o;  true
